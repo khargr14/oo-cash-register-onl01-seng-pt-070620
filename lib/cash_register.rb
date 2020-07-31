@@ -1,6 +1,6 @@
-class Person
+class CashRegister 
  
-  attr_accessor :age 
+  attr_accessor :total
  
   def initialize(age = 0)
     @age = age 
