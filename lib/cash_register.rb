@@ -2,8 +2,8 @@ class CashRegister
  
   attr_accessor :total
  
-  def initialize(age = 0)
-    @age = age 
+  def initialize(total = 0)
+    @total = age 
   end 
  
   def birthday
