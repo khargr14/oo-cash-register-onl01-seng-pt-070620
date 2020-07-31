@@ -1,6 +1,6 @@
 class CashRegister 
  
-  attr_accessor :cash_register
+  attr_accessor :new
  
   def initialize(total = 0)
     @total = age 
